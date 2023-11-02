@@ -8,5 +8,5 @@
 HTML| CSS| JavaScript</h2>
 <br>
 <br>
-<img src=">
+<img src="https://github.com/LumaXavier12/To-Do-List/blob/main/assets/To-Do-List.png?raw=true">
 <h3>Projeto totalmente responsivo.</h3>
